@@ -9,8 +9,8 @@
 - 📫 How to reach me: [alfasin@gmail.com](mailto:alfasin@gmail.com)
 - ⚡ Fun fact: I love playing CSGO2 on my free time
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/DevelopingGamer]([https://www.linkedin.com/in/alfasin/](https://www.linkedin.com/in/alfasin/))) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/DevelopingGamer](https://www.linkedin.com/in/alfasin/)) 
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@DevelopingGamer]([https://medium.com/@chaimturkel](https://medium.com/@alfasin))) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@DevelopingGamer](https://medium.com/@alfasin)) 
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/niralfasi) 
