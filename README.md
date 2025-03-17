@@ -1,16 +1,18 @@
-## Hi there 👋
+## Nir Alfasi
 
-<!--
-**alfasin/alfasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at [Tikal Knowledge](https://www.tikalk.com/) as a Senior Software Engineer & Tech Lead
+- 🌱 As part of my duties @ Tikal, I’m running the backend tech circle
+- 👯 My current client is truvify.com: I was the first engineer in the company, and now I'm part of a team of three engineers and two (excellent) founders
+- 🤔 I have a passion for LLMs, I love working with them and consider them as additional team members
+- 💬 Ask me anything!
+- 📫 How to reach me: [alfasin@gmail.com](mailto:alfasin@gmail.com)
+- ⚡ Fun fact: I love playing CSGO2 on my free time
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/alfasin/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/niralfasi">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
