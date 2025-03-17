@@ -7,7 +7,7 @@
 - I have a passion for LLMs, I love working with them and consider them as additional team members
 - 💬 Ask me anything!
 - 📫 How to reach me: [alfasin@gmail.com](mailto:alfasin@gmail.com)
-- ⚡ Fun fact: I love playing CSGO2 on my free time
+- ⚡ Fun fact: I love playing [CSGO-2](https://www.counter-strike.net/cs2) on my free time
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfasin/) 
