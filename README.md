@@ -9,7 +9,7 @@
 - 📫 How to reach me: [alfasin@gmail.com](mailto:alfasin@gmail.com)
 - ⚡ Fun fact: I love playing [CSGO-2](https://www.counter-strike.net/cs2) on my free time
 
-## 🌐Socials
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfasin/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alfasin)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/niralfasi)
@@ -17,7 +17,7 @@
 <a href="https://stackoverflow.com/users/1057429/nir-alfasi"><img src="https://stackoverflow.com/users/flair/1057429.png" width="208" height="58" alt="profile for Nir Alfasi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nir Alfasi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
-## 📊GitHub Stats :
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=alfasin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alfasin&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfasin&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
