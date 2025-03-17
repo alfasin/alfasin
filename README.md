@@ -9,7 +9,11 @@
 - 📫 How to reach me: [alfasin@gmail.com](mailto:alfasin@gmail.com)
 - ⚡ Fun fact: I love playing CSGO2 on my free time
 
-# 📊GitHub Stats :
+## 🌐Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/DevelopingGamer](https://www.linkedin.com/in/alfasin/)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@DevelopingGamer](https://medium.com/@alfasin)) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)]([https://medium.com/@DevelopingGamer](https://x.com/niralfasi)) 
+
+
+## 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=alfasin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alfasin&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfasin&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
