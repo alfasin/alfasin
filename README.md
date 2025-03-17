@@ -10,7 +10,9 @@
 - ⚡ Fun fact: I love playing CSGO2 on my free time
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/DevelopingGamer](https://www.linkedin.com/in/alfasin/)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@DevelopingGamer](https://medium.com/@alfasin)) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)]([https://medium.com/@DevelopingGamer](https://x.com/niralfasi)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfasin/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@DevelopingGamer](https://medium.com/@alfasin)) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)]([https://medium.com/@DevelopingGamer](https://x.com/niralfasi)) 
 
 
 ## 📊GitHub Stats :
