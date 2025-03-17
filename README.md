@@ -8,3 +8,8 @@
 - 💬 Ask me anything!
 - 📫 How to reach me: [alfasin@gmail.com](mailto:alfasin@gmail.com)
 - ⚡ Fun fact: I love playing CSGO2 on my free time
+
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=alfasin&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alfasin&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfasin&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
