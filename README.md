@@ -13,6 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfasin/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@alfasin)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/niralfasi)
+<a href="https://stackoverflow.com/users/1057429/nir-alfasi"><img src="https://stackoverflow.com/users/flair/1057429.png" width="208" height="58" alt="profile for Nir Alfasi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nir Alfasi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
 ## 📊GitHub Stats :
