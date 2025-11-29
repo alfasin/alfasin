@@ -21,7 +21,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alfasin&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfasin&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-![]([https://pixel-profile.vercel.app/api/github-stats?username=alfasin&screen_effect=true&dithering=true&include_all_commits=true&pixelate_avatar=true&background=linear-gradient%2890deg%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF](https://pixel-profile.vercel.app/api/github-stats?username=alfasin&dithering=true&include_all_commits=true&pixelate_avatar=false&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF&hide=avatar))
+![](https://pixel-profile.vercel.app/api/github-stats?username=alfasin&include_all_commits=true&pixelate_avatar=false&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF&hide=avatar)
 
 ## Infographics
 ![](./cv-info.png)
