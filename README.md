@@ -16,7 +16,7 @@
 <a href="https://stackoverflow.com/users/1057429/nir-alfasi"><img src="https://stackoverflow.com/users/flair/1057429.png" width="208" height="58" alt="profile for Nir Alfasi at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Nir Alfasi at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (includes only personal repos - work repos not included!)
 ![](https://github.com/alfasin/github-stats/blob/master/generated/languages.svg)
 ![](https://github.com/alfasin/github-stats/blob/master/generated/overview.svg)
 
