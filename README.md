@@ -22,4 +22,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alfasin&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## Infographics
-![image](https://drive.google.com/file/d/1z4bcpa4FdrWEJnfQOMWDweKbdpNeHpes/view?usp=drive_link)
+![image](./cv-info.png)
