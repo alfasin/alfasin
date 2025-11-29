@@ -23,7 +23,7 @@
 
 ![](https://pixel-profile.vercel.app/api/github-stats?username=alfasin&include_all_commits=true&pixelate_avatar=false&background=radial-gradient%28circle+at+50%25+50%25%2C+%233ddb82+0%25%2C+%231c1c45+100%25%29&color=%23ffffffFF&hide=avatar)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alfasin)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=alfasin)
 
 ## Infographics
 ![](./cv-info.png)
